@@ -1,4 +1,4 @@
-
+/*
 try {
     console.log(age);
 } catch (error) {
@@ -7,7 +7,7 @@ try {
 }finally{
     console.log("Hello World");
 }
-
+*/
 
 /*
 function myfun() {
