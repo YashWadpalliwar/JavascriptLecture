@@ -30,7 +30,6 @@ let age = prompt("Enter your age:")
 console.log(`My name is: ${name} and my Age is: ${age}`);
 */
 
-
 let Data = [
     {name:"Yash",Id:24,skills:"Javascript"},
     {name:"Ankit",Id:24,skills:"Javascript"},
