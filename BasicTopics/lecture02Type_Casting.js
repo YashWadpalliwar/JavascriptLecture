@@ -21,11 +21,20 @@
 // console.log(typeof(bool));
 
 //BACK TICK
-
+/*
 let name = prompt("Enter your Name:");
 let age = prompt("Enter your age:")
 
 //console.log("My name is "+name + age);
 
 console.log(`My name is: ${name} and my Age is: ${age}`);
+*/
 
+
+let Data = [
+    {name:"Yash",Id:24,skills:"Javascript"},
+    {name:"Ankit",Id:24,skills:"Javascript"},
+    {name:"Samruddhi",Id:24,skills:"Javascript"},
+    {name:"Anu",Id:24,skills:"Javascript"}
+]
+console.table(Data);

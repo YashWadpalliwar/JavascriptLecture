@@ -1,3 +1,4 @@
+/*
 let Mydate = new Date();
 
 console.log(typeof(Mydate));//TypeOf Date() 
@@ -7,6 +8,7 @@ console.log(Mydate.getDate());
 console.log(Mydate.getMonth());
 console.log(Mydate.getDay());
 console.log(Mydate.getFullYear());
+*/
 
 /*
 console.log(Mydate.toDateString());//Date 
@@ -19,7 +21,9 @@ console.log(Mydate.toUTCString());//Print GMT
 
 console.log(Mydate.toTimeString());//Time + GMT
 */
+
 //----------------------------------------------------
+
 /*
 let Mydate1 = new Date(2023, 1, 22);
 
