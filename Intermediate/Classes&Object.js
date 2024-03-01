@@ -17,7 +17,6 @@ class A1{
 let obj = new A1();
 */
 
-
 class Myclass{
     constructor(name,fullname,id){
         // console.log(name+fullname+id);
@@ -34,6 +33,3 @@ class Myclass{
 let obj1 = new Myclass("Yash","Kumar",24);
 
 console.log(obj1.display());
-
-
-

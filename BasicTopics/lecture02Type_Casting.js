@@ -32,8 +32,9 @@ console.log(`My name is: ${name} and my Age is: ${age}`);
 
 let Data = [
     {name:"Yash",Id:24,skills:"Javascript"},
-    {name:"Ankit",Id:24,skills:"Javascript"},
-    {name:"Samruddhi",Id:24,skills:"Javascript"},
-    {name:"Anu",Id:24,skills:"Javascript"}
+    {name:"Ankit",Id:24,skills:"C++"},
+    {name:"Samruddhi",Id:24,skills:"Python"},
+    {name:"Anu",Id:24,skills:"C"}
 ]
+
 console.table(Data);
