@@ -7,13 +7,11 @@ encapsulation and
 abstraction */
 
 /*
-
 class A1{
     constructor(){
         console.log("hello world");
     }
 }
-
 let obj = new A1();
 */
 
